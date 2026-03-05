@@ -1,0 +1,38 @@
+[
+  {
+    "id": "EMP001",
+    "name": "Sarthak",
+    "designation": "Team Manager",
+    "phone": "+91 9821823744",
+    "email": "sarthak.chauhan@sportsntw.com",
+    "bank": {
+      "bankName": "SBI",
+      "accountNumber": "39972366472",
+      "ifsc": "SBIN0016019"
+    }
+  },
+  {
+    "id": "EMP005",
+    "name": "Irfan Siddiqui",
+    "designation": "Head of coaching and player development",
+    "phone": "+91 7838399867",
+    "email": "irfan.siddiqui@barcaacademy.in",
+    "bank": {
+      "bankName": "HDFC Bank",
+      "accountNumber": "50100289599148",
+      "ifsc": "HDFC0001203"
+    }
+  },
+  {
+    "id": "EMP006",
+    "name": "Sourabh Ashok Shirsat",
+    "designation": "Project Head",
+    "phone": "+91 9766489068",
+    "email": "sourabh.shirsat@barcaacademy.in",
+    "bank": {
+      "bankName": "HDFC Bank",
+      "accountNumber": "50100289599148",
+      "ifsc": "HDFC0001203"
+    }
+  }
+]
