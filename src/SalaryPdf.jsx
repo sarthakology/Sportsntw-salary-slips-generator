@@ -6,7 +6,7 @@ import {
   StyleSheet,
   Image
 } from "@react-pdf/renderer";
-import signature from "./Sapna_mam_Digital_Signature.jpg";
+import signature from "./Sapna_mam_Digital_Signature.JPEG";
 
 const PURPLE = "#5B2DAD";
 const LIGHT = "#F3EEFB";
@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
   },
 
   signatureImg: {
-    width: 110,
+    width: 130,
     marginVertical: 6
   },
 
