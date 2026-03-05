@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
 
 export default function SalaryPdf({ employee, salaryData, netSalary }) {
 
-  const base = Number(employee.baseSalary || 0);
+  const base = Number(salaryData.baseSalary || 0);
   const reimbursement = Number(salaryData.reimbursement || 0);
   const tds = Number(salaryData.tds || 0);
 

@@ -129,7 +129,8 @@ export default function SalaryForm() {
             salaryData={salaryData}
             netSalary={netSalary}
           />
-        )}
+        )
+        }
 
       </div>
 
