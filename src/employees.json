@@ -29,10 +29,22 @@
     "designation": "Chief Revenue Officer",
     "phone": "+91 9766489068",
     "email": "sourabh.shirsat@barcaacademy.in",
-"bank": {
+    "bank": {
       "bankName": "HDFC",
       "accountNumber": "50100263961928",
       "ifsc": "HDFC0000835"
+    }
+  },
+  {
+    "id": "EMP007",
+    "name": "Priti Jitendra Waghela",
+    "designation": "Customer Relationship Executive",
+    "phone": "+91 9004652796",
+    "email": "Pritiwaghela2515@gmail.com",
+    "bank": {
+      "bankName": "Canara bank",
+      "accountNumber": "50232010120601",
+      "ifsc": "CNRB0015023"
     }
   }
 ]
